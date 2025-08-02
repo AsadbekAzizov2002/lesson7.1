@@ -28,7 +28,6 @@ function MovieForm() {
       setMovies([...movies, newMovie]);
     }
 
-     
     setName("");
     setGenre("");
     setRating("");
