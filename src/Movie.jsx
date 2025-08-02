@@ -28,7 +28,7 @@ function MovieForm() {
       setMovies([...movies, newMovie]);
     }
 
-    // Inputlarni tozalash
+     
     setName("");
     setGenre("");
     setRating("");
